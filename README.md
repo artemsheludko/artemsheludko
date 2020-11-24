@@ -1,6 +1,3 @@
-<!--
-**artemsheludko/artemsheludko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hey, I'm Artem Sheludko 👋
 -------
 I'm an independent web developer and designer.
