@@ -10,8 +10,6 @@ I'm an independent web developer and designer.
 - 🎉 Founder [Anvodstudio](https://anvodstudio.com/)
 - 🎨 Envato Author.
 
-<br />
-
 ## 🏆 Latest works
 
 - [Joseph Theme](https://jekyllthemes.io/theme/joseph-blog-jekyll-theme)
