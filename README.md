@@ -1,8 +1,8 @@
-## Hey, I'm Artem Sheludko 👋
+# Hey, I'm Artem Sheludko 👋
 
 I'm an independent web developer and designer.
 
-### 👨 About me
+## 👨 About me
 
 - 🌐 Open Source Contributor
 - 🚀 Static Site Enthusiast
@@ -12,13 +12,13 @@ I'm an independent web developer and designer.
 
 <br />
 
-### 🏆 Latest works
+## 🏆 Latest works
 
 - [Joseph Theme](https://jekyllthemes.io/theme/joseph-blog-jekyll-theme)
 - [Norlin Theme](https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme)
 - [Mangila Theme](https://jekyllthemes.io/theme/mangila-blog-jekyll-theme)
 
-### 📫 Get in touch
+## 📫 Get in touch
 
 - Twitter - [@artemsheludko_](https://twitter.com/@artemsheludko_)
 - Instagram - [artemsheludko_](https://www.instagram.com/artemsheludko_/)
