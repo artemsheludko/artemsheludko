@@ -1,4 +1,4 @@
-# Hey, I'm Artem Sheludko 👋
+# Hi, I'm Artem Sheludko 👋
 
 I'm an independent web developer and designer.
 
