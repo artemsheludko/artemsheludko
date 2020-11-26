@@ -19,3 +19,7 @@ Independent web developer & designer.
 - Twitter - [@artemsheludko_](https://twitter.com/@artemsheludko_)
 - Instagram - [artemsheludko_](https://www.instagram.com/artemsheludko_/)
 - Dribbble - [artemsheludko](https://dribbble.com/artemsheludko)
+
+<br />
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=artemsheludko/artemsheludko)
