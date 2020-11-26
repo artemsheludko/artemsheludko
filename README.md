@@ -1,6 +1,6 @@
 # Hi, I'm Artem Sheludko 👋
 
-I'm an independent web developer & designer.
+Independent web developer & designer.
 
 ## About me
 
