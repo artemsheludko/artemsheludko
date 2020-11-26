@@ -16,6 +16,15 @@ Independent web developer & designer.
 
 ## Get in touch
 
-- Twitter - [@artemsheludko_](https://twitter.com/@artemsheludko_)
-- Instagram - [artemsheludko_](https://www.instagram.com/artemsheludko_/)
-- Dribbble - [artemsheludko](https://dribbble.com/artemsheludko)
+<a href="https://twitter.com/artemsheludko_">
+  <img align="left" alt="Artem sheludko's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://instagram.com/artemsheludko_/">
+  <img align="left" alt="Artem Sheludko's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://dribbble.com/artemsheludko/">
+  <img align="left" alt="Artem Sheludko's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=artemsheludko/artemsheludko)
