@@ -4,9 +4,9 @@ Independent web developer & designer.
 
 ## About me
 
-- Open Source Contributor
-- Static Site Enthusiast
-- I Create Premium [Jekyll Themes](https://jekyllthemes.io/developers/artem-sheludko)
+- Open Source Contributor.
+- Static Site Enthusiast.
+- I Create Premium [Jekyll Themes](https://jekyllthemes.io/developers/artem-sheludko).
 
 ## Latest works
 
