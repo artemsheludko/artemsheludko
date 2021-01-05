@@ -10,9 +10,11 @@ Independent web developer & designer.
 
 ## Latest works
 
+- [Sanara Theme](https://jekyllthemes.io/theme/sanara-magazine-jekyll-theme)
 - [Joseph Theme](https://jekyllthemes.io/theme/joseph-blog-jekyll-theme)
 - [Norlin Theme](https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme)
 - [Mangila Theme](https://jekyllthemes.io/theme/mangila-blog-jekyll-theme)
+- [Atega Theme](https://jekyllthemes.io/theme/atega-blog-jekyll-theme)
 
 ## Get in touch
 
