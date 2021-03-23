@@ -13,8 +13,8 @@ Independent web developer & designer.
 - [Aditu Theme](https://jekyllthemes.io/theme/aditu-blog-jekyll-theme)
 - [Atega Theme](https://jekyllthemes.io/theme/atega-blog-jekyll-theme)
 - [Bracia Theme](https://jekyllthemes.io/theme/bracia-personal-blog-jekyll-theme)
-- [Norlin Theme](https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme)
 - [Joseph Theme](https://jekyllthemes.io/theme/joseph-blog-jekyll-theme)
+- [Norlin Theme](https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme)
 
 ## Get in touch
 
