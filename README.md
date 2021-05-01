@@ -27,7 +27,7 @@ Independent web developer & designer.
       </td>
       <td width="50%" align="center">
         <a href="">
-          <img alt="" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
+          <img alt="" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-preview.png?raw=true" />
         </a>
       </td>
     </tr>
