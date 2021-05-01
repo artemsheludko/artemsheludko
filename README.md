@@ -21,13 +21,13 @@ Independent web developer & designer.
   <body>
     <tr>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/clancy-portfolio-jekyll-theme" target="_blank" rel="noopener">
-          <img alt="" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/clancy-portfolio-jekyll-theme">
+          <img alt="Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="">
-          <img alt="" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/atega-blog-jekyll-theme">
+          <img alt="Atega is a fast and creative theme for creating a minimal blog for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-preview.png?raw=true" />
         </a>
       </td>
     </tr>
