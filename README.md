@@ -21,7 +21,7 @@ Independent web developer & designer.
   <body>
     <tr>
       <td width="50%" align="center">
-        <a href="">
+        <a href="https://jekyllthemes.io/theme/clancy-portfolio-jekyll-theme" target="_blank" rel="noopener">
           <img alt="" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
         </a>
       </td>
