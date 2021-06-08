@@ -30,18 +30,18 @@ Independent web developer & designer.
           <img alt="Norlin is a creative modern theme with a clean design specially created for dark-theme lovers." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/norlin-preview.png?raw=true" />
         </a>
       </td>
-    <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/joseph-blog-jekyll-theme">
-          <img alt="Joseph is a super minimal content-focused theme for Jekyll." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/joseph-preview.png?raw=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td width="50%" align="center">
         <a href="https://jekyllthemes.io/theme/bonso-blog-jekyll-theme">
           <img alt="Bonso is a minimal, modern, easily customizable, and image-focused theme for Jekyll." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/bonso-preview.png?raw=true" />
         </a>
       </td>
+    </tr>
+    <tr>
+    <td width="50%" align="center">
+        <a href="https://jekyllthemes.io/theme/joseph-blog-jekyll-theme">
+          <img alt="Joseph is a super minimal content-focused theme for Jekyll." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/joseph-preview.png?raw=true" />
+        </a>
+     </td>
     <td width="50%" align="center">
         <a href="https://jekyllthemes.io/theme/aditu-blog-jekyll-theme">
           <img alt="Aditu is a stylish and modern dark theme with a clean and unique design." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/aditu-preview.png?raw=true" />
