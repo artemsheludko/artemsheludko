@@ -19,8 +19,8 @@ Independent web developer & designer.
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/atega-blog-jekyll-theme">
-          <img alt="Atega is a fast and creative theme for creating a minimal blog for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/menca-blog-jekyll-theme">
+          <img alt="Menca is a super fast and clean blogging theme for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/menca-preview.png?raw=true" />
         </a>
       </td>
     </tr>
