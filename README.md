@@ -32,7 +32,7 @@ Independent web developer & designer.
       </td>
       <td width="50%" align="center">
         <a href="https://jekyllthemes.io/theme/calipse-blog-jekyll-theme">
-          <img alt="Calipse is a unique and modern magazine theme for Jekyll." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/calipse-preview.png?raw=true" />
+          <img alt="Calipse is a unique and modern magazine theme for Jekyll." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/calipse-preview.jpg?raw=true" />
         </a>
       </td>
     </tr>
