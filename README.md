@@ -27,7 +27,7 @@ Independent web developer & designer.
     <tr>
       <td width="50%" align="center">
         <a href="https://jekyllthemes.io/theme/avenco-portfolio-jekyll-theme">
-          <img alt="Creative portfolio theme for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/avenco-preview.jpg?raw=true" />
+          <img alt="Creative portfolio theme for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/avenco-preview.png?raw=true" />
         </a>
       </td>
       <td width="50%" align="center">
