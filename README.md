@@ -31,15 +31,15 @@ Independent web developer & designer.
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme">
-          <img alt="Norlin is a creative modern theme with a clean design specially created for dark-theme lovers." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/norlin-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/mria-multipurpose-jekyll-theme">
+          <img alt="High-quality multipurpose Jekyll theme with a unique style and clean code." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/mria-preview.png?raw=true" />
         </a>
       </td>
     </tr>
     <tr>
     <td width="50%" align="center">
-      <a href="https://jekyllthemes.io/theme/aditu-blog-jekyll-theme">
-         <img alt="Aditu is a stylish and modern dark theme with a clean and unique design." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/aditu-preview.png?raw=true" />
+      <a href="https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme">
+        <img alt="Norlin is a creative modern theme with a clean design specially created for dark-theme lovers." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/norlin-preview.png?raw=true" />
       </a>
     </td>
     <td width="50%" align="center">
