@@ -26,8 +26,8 @@ Independent web developer & designer.
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/avenco-portfolio-jekyll-theme">
-          <img alt="Creative portfolio theme for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/avenco-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/hilton-portfolio-jekyll-theme">
+          <img alt="Super simple portfolio theme" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/hilton-preview.png?raw=true" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -43,8 +43,8 @@ Independent web developer & designer.
         </a>
      </td>
     <td width="50%" align="center">
-      <a href="https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme">
-        <img alt="Norlin is a creative modern theme with a clean design specially created for dark-theme lovers." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/norlin-preview.png?raw=true" />
+      <a href="https://jekyllthemes.io/theme/avenco-portfolio-jekyll-theme">
+        <img alt="Creative portfolio theme for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/avenco-preview.png?raw=true" />
       </a>
     </td>
     </tr>
