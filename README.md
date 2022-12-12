@@ -43,8 +43,8 @@ Independent web developer & designer.
         </a>
      </td>
     <td width="50%" align="center">
-      <a href="https://jekyllthemes.io/theme/avenco-portfolio-jekyll-theme">
-        <img alt="Creative portfolio theme for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/avenco-preview.png?raw=true" />
+      <a href="https://jekyllthemes.io/theme/atega-blog-jekyll-theme">
+        <img alt="Fast and creative theme for creating a minimal blog for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-new-preview.png?raw=true" />
       </a>
     </td>
     </tr>
