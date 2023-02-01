@@ -6,7 +6,7 @@ Independent web developer & designer.
 
 - Open Source Contributor.
 - Static Site Enthusiast.
-- I Create Premium [Jekyll Themes](https://jekyllthemes.io/developers/artem-sheludko).
+- I Create Premium [Jekyll](https://jekyllthemes.io/developers/artem-sheludko) and [Hugo](https://anvodstudio.com) Themes.
 
 ## Latest works
 
