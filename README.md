@@ -14,8 +14,8 @@ Independent web developer & designer.
   <body>
     <tr>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/clancy-portfolio-jekyll-theme">
-          <img alt="Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/danto-magazine-jekyll-theme">
+          <img alt="Danto is a fast, modern, optimized, and mobile-friendly Jekyll theme." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/danto-preview.png?raw=true" />
         </a>
       </td>
       <td width="50%" align="center">
@@ -26,22 +26,22 @@ Independent web developer & designer.
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/hilton-portfolio-jekyll-theme">
-          <img alt="Super simple portfolio theme" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/hilton-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/mria-multipurpose-jekyll-theme">
+          <img alt="High-quality multipurpose Jekyll theme with a unique style and clean code." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/mria-preview.png?raw=true" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/mria-multipurpose-jekyll-theme">
-          <img alt="High-quality multipurpose Jekyll theme with a unique style and clean code." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/mria-preview.png?raw=true" />
+        <a href="https://jekyllthemes.io/theme/hilton-portfolio-jekyll-theme">
+          <img alt="Super simple portfolio theme" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/hilton-preview.png?raw=true" />
         </a>
       </td>
     </tr>
     <tr>
     <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/theme/joseph-blog-jekyll-theme">
-          <img alt="Joseph is a super minimal content-focused theme for Jekyll." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/joseph-preview.png?raw=true" />
-        </a>
-     </td>
+      <a href="https://jekyllthemes.io/theme/clancy-portfolio-jekyll-theme">
+        <img alt="Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
+      </a>
+    </td>
     <td width="50%" align="center">
       <a href="https://jekyllthemes.io/theme/atega-blog-jekyll-theme">
         <img alt="Fast and creative theme for creating a minimal blog for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-new-preview.png?raw=true" />
