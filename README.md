@@ -53,7 +53,7 @@ Independent web developer & designer.
         <a href="mailto:hi.artemsheludko@gmail.com">Contact</a>
       </td>
       <td width="50%" align="center">
-        <a href="https://jekyllthemes.io/developers/artem-sheludko">See all</a>
+        <a href="https://jekyllthemes.io/developers/artem-sheludko">See all themes</a>
       </td>
     </tr>
   </body>
