@@ -14,6 +14,18 @@ Independent web developer & designer.
   <body>
     <tr>
       <td width="50%" align="center">
+        <a href="https://jekyllthemes.io/theme/renva-portfolio-jekyll-theme">
+          <img alt="Renva is a modern and bold portfolio Jekyll theme, that transforms simplicity into creativity." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/renva-preview.png?raw=true" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://jekyllthemes.io/theme/gerous-portfolio-jekyll-theme">
+          <img alt="Gerous is a modern portfolio theme for Jekyll, designed for creative individuals and professionals." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/gerous-preview.png?raw=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
         <a href="https://jekyllthemes.io/theme/danto-magazine-jekyll-theme">
           <img alt="Danto is a fast, modern, optimized, and mobile-friendly Jekyll theme." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/danto-preview.png?raw=true" />
         </a>
