@@ -14,6 +14,18 @@ Independent web developer & designer.
   <body>
     <tr>
       <td width="50%" align="center">
+        <a href="https://jekyllthemes.io/theme/coderon-blog-jekyll-theme">
+          <img alt="A super modern, unique Jekyll blog theme" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/coderon-preview.png?raw=true" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://jekyllthemes.io/theme/nomod-blog-jekyll-theme">
+          <img alt="A multipurpose Jekyll blog theme" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/nomod-preview.png?raw=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
         <a href="https://jekyllthemes.io/theme/renva-portfolio-jekyll-theme">
           <img alt="Renva is a modern and bold portfolio Jekyll theme, that transforms simplicity into creativity." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/renva-preview.png?raw=true" />
         </a>
@@ -47,18 +59,6 @@ Independent web developer & designer.
           <img alt="Super simple portfolio theme" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/hilton-preview.png?raw=true" />
         </a>
       </td>
-    </tr>
-    <tr>
-    <td width="50%" align="center">
-      <a href="https://jekyllthemes.io/theme/clancy-portfolio-jekyll-theme">
-        <img alt="Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc." src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/clancy-preview.png?raw=true" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://jekyllthemes.io/theme/atega-blog-jekyll-theme">
-        <img alt="Fast and creative theme for creating a minimal blog for Jekyll" src="https://github.com/artemsheludko/artemsheludko.github.io/raw/master/assets/preview/atega-new-preview.png?raw=true" />
-      </a>
-    </td>
     </tr>
     <tr>
       <td width="50%" height="145" align="center">
